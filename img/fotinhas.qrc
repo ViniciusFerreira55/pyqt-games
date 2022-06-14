@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="fotos">
+    <file>foto.png</file>
+    <file>fisk.png</file>
+    <file>foto.png</file>
+    <file>foto.png</file>
+  </qresource>
+</RCC>
